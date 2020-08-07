@@ -19,7 +19,7 @@
         $sql_delete = "DELETE FROM " . $board . " WHERE id = " . $_GET['delete'];
         $stmt = $conn->prepare($sql_delete);
         $stmt->execute();
-        header("Location: /Sprint2.1/?path=" . $_GET['path']);
+        header("Location: /Sprint2/?path=" . $_GET['path']);
     }
 
     $sql = "SELECT " 
