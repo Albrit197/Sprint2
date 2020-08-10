@@ -11,10 +11,10 @@ DBproject.sql file is there to copy content and paste it to you local apache ser
 
 DB manager features:
 
-Navigation through two tables of employees and projects
-Ability to assign certain employee to a certain project
-Ability to delete projects or employees
-Add new employee or project
+-Navigation through two tables of employees and projects
+-Ability to assign certain employee to a certain project
+-Ability to delete projects or employees
+-Add new employee or project
 
 Contributing Pull requests are welcome, but this project is for educational porpuses only. Thank you for your cooperation!
 
